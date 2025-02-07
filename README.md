@@ -1,16 +1,31 @@
 # Getting Started with Create React App
-1. This Project is created React Js with Typescript
-2. Antd used for Design UI
-3. API URL added in .env file 
-#Follow below steps to run this project
-To clone project using cmd => git clone https://github.com/SelvakumarGanesan9264/qdb-frontend-project.git and move to qdb-frontend-project folder & follow below steps
-5. yarn install --legacy-peer-deps
-6. yarn start => to start appliaction
-7. In browser you can see UI => http://localhost:3000/dashboard
-8. Two Pages created with static menu Dashboard & Blogs
-9. In Dashboard to show list of user with their details
-10. In blog page date show by TABS with Pagination
-11. Each post we can edit & delete using respective button
-12. Static image added in Post
-13. Once click edit, it redirect to another page, ther we can edit title & Body and Using submit button to save their respective values
-15. UI_Screenshot attached in Project Folder
+1. This project is built using React.js with TypeScript.
+2. Ant Design (Antd) is used for the UI components.
+3. The API URL is stored in the .env file.
+
+# Follow these steps to run the project:
+1️. Clone the project
+Run the following command in your terminal:
+git clone https://github.com/SelvakumarGanesan9264/qdb-frontend-project.git
+cd qdb-frontend-project
+
+# Install dependencies
+1. yarn install --legacy-peer-deps
+
+# Start the application
+1. yarn start
+
+# Open the UI in your browser
+Visit: http://localhost:3000/dashboard
+
+# Project Features
+1. Dashboard Page: Displays a list of users with their details.
+2. Blog Page:
+	Shows posts categorized by tabs with pagination.
+	Each post has edit and delete options.
+	A static image is added to each post.
+3. Editing a Post:
+	Clicking "Edit" redirects to a new page.
+	You can edit the title and body of the post.
+	Clicking Submit saves the updated values.
+4. UI Screenshots are available in the project folder.
