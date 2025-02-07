@@ -2,7 +2,7 @@
 1. This Project is created React Js with Typescript
 2. Antd used for Design UI
 3. API URL added in .env file 
-# Follow below steps to run this project
+#Follow below steps to run this project
 To clone project using cmd => git clone https://github.com/SelvakumarGanesan9264/qdb-frontend-project.git and move to qdb-frontend-project folder & follow below steps
 5. yarn install --legacy-peer-deps
 6. yarn start => to start appliaction
