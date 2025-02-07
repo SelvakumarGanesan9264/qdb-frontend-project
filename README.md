@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 This Project is created React Js with Typescript
--> Antd used for Design UI
--> API URL added in .env file 
+Antd used for Design UI
+API URL added in .env file 
 #Follow below steps to run this project
 1. yarn install --legacy-peer-deps
 2. yarn start => to start appliaction
