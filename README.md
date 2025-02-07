@@ -5,9 +5,9 @@
 
 # Follow these steps to run the project:
 1️. Clone the project
-Run the following command in your terminal:
-git clone https://github.com/SelvakumarGanesan9264/qdb-frontend-project.git
-cd qdb-frontend-project
+	Run the following command in your terminal:
+	git clone https://github.com/SelvakumarGanesan9264/qdb-frontend-project.git
+	cd qdb-frontend-project
 
 # Install dependencies
 1. yarn install --legacy-peer-deps
