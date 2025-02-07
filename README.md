@@ -13,3 +13,4 @@
 # Each post we can edit & delete using respective button
 # Static image added in Post
 # Once click edit, it redirect to another page, ther we can edit title & Body and Using submit button to save their respective values
+# UI_Screenshot attached in Project Folder

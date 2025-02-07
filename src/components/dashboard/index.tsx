@@ -37,7 +37,7 @@ const Dashboard: React.FC = () => {
             {users.map((user, index) => (
                 <Col span={8} key={index}>
                 <Card style={{ marginBottom: '10px', marginRight: '10px' }} key={index}>
-                    <p><strong>Name :</strong> {user.name || 'N/A'}</p>
+                    <p><strong>Name :</strong> <div data-testid='user-name'>{user.name || 'N/A'}</div></p>
                     <p><strong>Email :</strong> {user.email || 'N/A'}</p>
                     <p><strong>Address :</strong></p>
                     <p>{user.address?.street || 'N/A'}</p>
